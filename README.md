@@ -1,5 +1,16 @@
 # Week 3
 
+### Day 18: June 6, Wednesday.
+
+**Today's Progress**: Case_when function and Rmd.
+
+**Thoughts** 
+- Met function case_when of the excellent package dplyr.  
+- I learned a lot about working with the Rmarkdown package by reading the documentation.
+
+**Link(s) to work**
+[Code on Github](https://github.com/makarevichy/Week_3_100DaysOfCode/blob/master/weekday/Day_18_case_when.R)
+
 ### Day 17: June 5, Tuesday.
 
 **Today's Progress**: Сaret package and synthetic data.
