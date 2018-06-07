@@ -1,5 +1,16 @@
 # Week 3
 
+### Day 19: June 7, Thursday.
+
+**Today's Progress**: Bank scoring, html.
+
+**Thoughts** 
+- Today I solved a test task for the company engaged in bank scoring.  
+- Made out the decision in the html file using the Rmarkdown package.
+
+**Link(s) to work**
+[Code on Github](https://github.com/makarevichy/Week_3_100DaysOfCode/blob/master/weekday/Day_19_solution_test_task.R)
+
 ### Day 18: June 6, Wednesday.
 
 **Today's Progress**: Case_when function and Rmd.
