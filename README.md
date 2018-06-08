@@ -1,5 +1,15 @@
 # Week 3
 
+### Day 20: June 8, Friday.
+
+**Today's Progress**: Expressions.
+
+**Thoughts** 
+- Finally finished going through the head of the expressions in the book Advanced R by Hadley.
+
+**Link(s) to work**
+[Code on Github](https://github.com/makarevichy/Week_3_100DaysOfCode/blob/master/weekday/Day_20_expression_end.R)
+
 ### Day 19: June 7, Thursday.
 
 **Today's Progress**: Bank scoring, html.
