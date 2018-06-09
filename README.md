@@ -1,5 +1,15 @@
 # Week 3
 
+### Day 21: June 9, Friday.
+
+**Today's Progress**: Domain specific language, html.
+
+**Thoughts** 
+- Today I researched embedded domain specific languages in R, for example html.
+
+**Link(s) to work**
+[Code on Github](https://github.com/makarevichy/Week_3_100DaysOfCode/blob/master/weekday/Day_21_html.R)
+
 ### Day 20: June 8, Friday.
 
 **Today's Progress**: Expressions.
