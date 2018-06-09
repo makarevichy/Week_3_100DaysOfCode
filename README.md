@@ -1,6 +1,6 @@
 # Week 3
 
-### Day 21: June 9, Friday.
+### Day 21: June 9, Saturday.
 
 **Today's Progress**: Domain specific language, html.
 
